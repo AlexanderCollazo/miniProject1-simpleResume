@@ -8,7 +8,7 @@
     width: 100%;
     margin-bottom: 20px;
      display: flex ; flex-wrap: wrap;
-       
+
 }
 
 .col-1 {
@@ -60,16 +60,15 @@
 }
 
 
-  
 
-   
-  
+
+
+
 
 
 
 
 body{
-    font-family: 'Lato', sans-serif;
-    color:#747704;
+    color:#808080;
     font-weight: 300;
 }
